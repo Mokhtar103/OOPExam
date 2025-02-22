@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPExam", "OOPExam\OOPExam.csproj", "{388282B3-2EFB-46CB-9ACA-A4D264675F32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388282B3-2EFB-46CB-9ACA-A4D264675F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388282B3-2EFB-46CB-9ACA-A4D264675F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388282B3-2EFB-46CB-9ACA-A4D264675F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388282B3-2EFB-46CB-9ACA-A4D264675F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C70DC66-82DE-483D-B588-8FEEC2DF05F5}
+	EndGlobalSection
+EndGlobal
